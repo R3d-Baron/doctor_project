@@ -28,3 +28,7 @@ On 09-07-2022 : 02:36 AM : uploaded all the files again after updating a lot of 
     !!!! MAINTAIN THE FORMAT AND GROUP ALL CONTROLLER AND MODEL FUNCTIONS OF A PARTICULAR USER TOGETHER. !!!!
 
 <-- Edit of 09-07-2022 Ends here -->
+
+On 29-07-2022 : 10:00 PM : Uploaded the whole application folder with a lot of changes. 
+                           Download the whole folder and replace this with your application folder of Your CodeIgniter.
+                           There are lots of changes, avoid downloading files seperately.
